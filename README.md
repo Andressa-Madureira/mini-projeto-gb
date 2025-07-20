@@ -6,6 +6,10 @@ Este projeto tem como objetivo explorar e analisar uma base de dados de vendas u
 
 A base contém registros de vendas com informações como quantidade, preço, data, cliente e localização, cobrindo um período mensal e anual.
 
+Link da base de dados: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
+O arquivo original é grande e está compactado para facilitar o download.  
+Faça o download do arquivo `sales_data_sample.zip`, descompacte e utilize o CSV dentro para rodar os códigos do projeto.
+
 ## O que foi feito
 
 - Leitura e inspeção inicial dos dados.
